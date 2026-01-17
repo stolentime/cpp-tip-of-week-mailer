@@ -8,7 +8,7 @@ import os
 
 def main():
     # 读取 Tips
-    with open('english_send.json', 'r', encoding='utf-8') as f:
+    with open('english_tips.json', 'r', encoding='utf-8') as f:
         tips = json.load(f)
 
     tip = random.choice(tips)
