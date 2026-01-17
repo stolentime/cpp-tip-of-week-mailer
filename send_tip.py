@@ -15,14 +15,14 @@ def main():
 
     # 邮件配置
     sender_email = os.environ['EMAIL_USER']
-    receiver_email = os.environ['RECIPIENT_EMAIL']
+    receiver_emails = [email.strip() for email in os.environ['RECIPIENT_EMAIL'].split(',')]
     password = os.environ['EMAIL_APP_PASSWORD']
 
     # 创建邮件
     message = MIMEMultipart("alternative")
     message["Subject"] = f"📚 C++ Tip of the Week #{tip['id']}: {tip['title']}"
     message["From"] = sender_email
-    message["To"] = receiver_email
+    message["To"] = ', '.join(receiver_emails)
 
     # 纯文本版本
     text = f"""
@@ -63,7 +63,7 @@ Happy coding!
     with smtplib.SMTP("smtp.gmail.com", 587) as server:
         server.starttls()
         server.login(sender_email, password)
-        server.sendmail(sender_email, receiver_email, message.as_string())
+        server.sendmail(sender_email, receiver_emails, message.as_string())
 
     print(f"✅ Email sent: Tip #{tip['id']}")
 
