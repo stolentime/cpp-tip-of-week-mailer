@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "sentence": "How’s it going?",
+    "translation": "最近怎么样？",
+    "note": "万能打招呼用语，比 'How are you?' 更自然"
+  },
+  {
+    "id": 2,
+    "sentence": "I’m good, thanks. And you?",
+    "translation": "我很好，谢谢。你呢？",
+    "note": "标准回应，礼貌又简洁"
+  },
+  {
+    "id": 3,
+    "sentence": "No worries!",
+    "translation": "别担心！/ 没关系！",
+    "note": "澳洲/英式英语高频表达，替代 'It’s okay'"
+  },
+  {
+    "id": 4,
+    "sentence": "Could you please…?",
+    "translation": "你能……吗？",
+    "note": "最礼貌的请求句式，职场必备"
+  },
+  {
+    "id": 5,
+    "sentence": "I’m not sure.",
+    "translation": "我不确定。",
+    "note": "比 'I don’t know' 更委婉"
+  },
+  {
+    "id": 6,
+    "sentence": "That makes sense.",
+    "translation": "这说得通。",
+    "note": "表示理解或认同，会议常用"
+  },
+  {
+    "id": 7,
+    "sentence": "Let me know if you need help.",
+    "translation": "如果你需要帮助，请告诉我。",
+    "note": "友好又不强势的提供帮助方式"
+  },
+  {
+    "id": 8,
+    "sentence": "What do you think?",
+    "translation": "你怎么看？",
+    "note": "引导对方发表意见，促进对话"
+  },
+  {
+    "id": 9,
+    "sentence": "Sounds good!",
+    "translation": "听起来不错！",
+    "note": "快速同意计划，积极回应"
+  },
+  {
+    "id": 10,
+    "sentence": "I’ll get back to you.",
+    "translation": "我稍后回复你。",
+    "note": "无法立即答复时的专业说法"
+  },
+  {
+    "id": 11,
+    "sentence": "Hang on a second.",
+    "translation": "稍等一下。",
+    "note": "电话或对话中临时中断"
+  },
+  {
+    "id": 12,
+    "sentence": "I’m running late.",
+    "translation": "我要迟到了。",
+    "note": "通知对方自己会晚到"
+  },
+  {
+    "id": 13,
+    "sentence": "It’s up to you.",
+    "translation": "由你决定。",
+    "note": "把选择权交给对方"
+  },
+  {
+    "id": 14,
+    "sentence": "I totally agree.",
+    "translation": "我完全同意。",
+    "note": "强烈赞同，比 'Yes' 更有态度"
+  },
+  {
+    "id": 15,
+    "sentence": "Not really.",
+    "translation": "不太（是）。",
+    "note": "委婉否定，避免生硬"
+  },
+  {
+    "id": 16,
+    "sentence": "That’s awesome!",
+    "translation": "太棒了！",
+    "note": "表达惊喜和赞赏"
+  },
+  {
+    "id": 17,
+    "sentence": "I have no idea.",
+    "translation": "我完全不知道。",
+    "note": "坦率承认无知，口语常用"
+  },
+  {
+    "id": 18,
+    "sentence": "Take your time.",
+    "translation": "慢慢来，不着急。",
+    "note": "安慰对方不必匆忙"
+  },
+  {
+    "id": 19,
+    "sentence": "I’m just kidding!",
+    "translation": "我开玩笑的！",
+    "note": "化解误会或玩笑后的澄清"
+  },
+  {
+    "id": 20,
+    "sentence": "Good point!",
+    "translation": "说得好！/ 有道理！",
+    "note": "认可对方观点"
+  },
+  {
+    "id": 21,
+    "sentence": "I’m looking forward to it.",
+    "translation": "我很期待。",
+    "note": "表达对未来的积极期待"
+  },
+  {
+    "id": 22,
+    "sentence": "Mind if I…?",
+    "translation": "你介意我……吗？",
+    "note": "礼貌请求许可，如 'Mind if I open the window?'"
+  },
+  {
+    "id": 23,
+    "sentence": "It’s not a big deal.",
+    "translation": "没什么大不了的。",
+    "note": "淡化问题，缓解紧张"
+  },
+  {
+    "id": 24,
+    "sentence": "I’m beat.",
+    "translation": "我累垮了。",
+    "note": "口语化表达极度疲劳"
+  },
+  {
+    "id": 25,
+    "sentence": "Long time no see!",
+    "translation": "好久不见！",
+    "note": "经典中式英语，但老外也懂且常用"
+  },
+  {
+    "id": 26,
+    "sentence": "I’m all ears.",
+    "translation": "我洗耳恭听。",
+    "note": "表示专注倾听"
+  },
+  {
+    "id": 27,
+    "sentence": "Break a leg!",
+    "translation": "祝你好运！（字面：断条腿！）",
+    "note": "戏剧圈祝福语，现泛用于鼓励"
+  },
+  {
+    "id": 28,
+    "sentence": "It slipped my mind.",
+    "translation": "我一时忘了。",
+    "note": "解释忘记某事的地道说法"
+  },
+  {
+    "id": 29,
+    "sentence": "You’ve got a point.",
+    "translation": "你说得有道理。",
+    "note": "部分同意对方"
+  },
+  {
+    "id": 30,
+    "sentence": "I’m on it.",
+    "translation": "我马上处理。",
+    "note": "职场高效回应，表示立刻行动"
+  },
+  {
+    "id": 31,
+    "sentence": "Don’t mention it.",
+    "translation": "不用谢。",
+    "note": "回应 'Thank you' 的自然说法"
+  },
+  {
+    "id": 32,
+    "sentence": "It’s worth it.",
+    "translation": "值得的。",
+    "note": "肯定付出与回报成正比"
+  },
+  {
+    "id": 33,
+    "sentence": "I’m stuck.",
+    "translation": "我卡住了。",
+    "note": "求助前的常用开场白"
+  },
+  {
+    "id": 34,
+    "sentence": "Fingers crossed!",
+    "translation": "祝好运！（字面：手指交叉！）",
+    "note": "表达希望事情顺利"
+  },
+  {
+    "id": 35,
+    "sentence": "It’s a piece of cake.",
+    "translation": "小菜一碟。",
+    "note": "形容事情非常简单"
+  },
+  {
+    "id": 36,
+    "sentence": "I’m short on time.",
+    "translation": "我没多少时间了。",
+    "note": "委婉表达时间紧迫"
+  },
+  {
+    "id": 37,
+    "sentence": "That’s the spirit!",
+    "translation": "这才像话！/ 这才对嘛！",
+    "note": "鼓励积极态度"
+  },
+  {
+    "id": 38,
+    "sentence": "I owe you one.",
+    "translation": "我欠你一个人情。",
+    "note": "感谢帮助后的承诺"
+  },
+  {
+    "id": 39,
+    "sentence": "It’s not rocket science.",
+    "translation": "这又不是火箭科学。（意为：很简单）",
+    "note": "强调事情并不复杂"
+  },
+  {
+    "id": 40,
+    "sentence": "I’m in the same boat.",
+    "translation": "我和你情况一样。",
+    "note": "表达共情或同处境"
+  },
+  {
+    "id": 41,
+    "sentence": "Let’s call it a day.",
+    "translation": "今天就到这里吧。",
+    "note": "建议结束工作或活动"
+  },
+  {
+    "id": 42,
+    "sentence": "It’s on me.",
+    "translation": "我请客。",
+    "note": "主动承担费用"
+  },
+  {
+    "id": 43,
+    "sentence": "I’m just browsing.",
+    "translation": "我只是随便看看。",
+    "note": "商店/网站常用"
+  },
+  {
+    "id": 44,
+    "sentence": "Time flies!",
+    "translation": "时光飞逝！",
+    "note": "感慨时间过得快"
+  },
+  {
+    "id": 45,
+    "sentence": "I’m pulling your leg.",
+    "translation": "我在逗你玩呢。",
+    "note": "英式幽默，表示开玩笑"
+  },
+  {
+    "id": 46,
+    "sentence": "It’s a win-win situation.",
+    "translation": "这是双赢局面。",
+    "note": "商务谈判常用语"
+  },
+  {
+    "id": 47,
+    "sentence": "I’m feeling under the weather.",
+    "translation": "我有点不舒服。",
+    "note": "委婉表达身体不适"
+  },
+  {
+    "id": 48,
+    "sentence": "Keep me posted.",
+    "translation": "随时告诉我进展。",
+    "note": "要求对方更新信息"
+  },
+  {
+    "id": 49,
+    "sentence": "It’s not my cup of tea.",
+    "translation": "这不是我的菜。（我不感兴趣）",
+    "note": "礼貌拒绝不喜欢的事物"
+  },
+  {
+    "id": 50,
+    "sentence": "Every day is a new beginning.",
+    "translation": "每一天都是新的开始。",
+    "note": "积极励志，适合晨间激励"
+  }
+]
