@@ -15,7 +15,7 @@ def main():
 
     # 邮件配置
     sender_email = os.environ['EMAIL_USER']
-    receiver_emails = [email.strip() for email in os.environ['RECIPIENT_EMAIL'].split(',')]
+    receiver_emails = [email.strip() for email in os.environ['RECIPIENT_EMAILS'].split(',')]
     password = os.environ['EMAIL_APP_PASSWORD']
 
     # 创建邮件
