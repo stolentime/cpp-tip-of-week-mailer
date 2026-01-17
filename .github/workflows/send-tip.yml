@@ -1,4 +1,4 @@
-name: 📧 Send Weekly C++ Tip
+name: 📧 Send Email Tips
 
 on:
   schedule:
